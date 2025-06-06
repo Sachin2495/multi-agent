@@ -46,7 +46,7 @@ A powerful, locally running multi-agent AI system using [Ollama](https://ollama.
 
 3. **Clone this Repository**  
    ```sh
-   git clone https://github.com/yourusername/llama3-multiagent.git
+   git clone https://github.com/Sachin2495/llama3-multiagent.git
    cd llama3-multiagent
    ```
 
@@ -92,7 +92,7 @@ Run the main script with your desired input:
 
 - **Image Input (OCR)**
   ```sh
-  python main.py --img "image.png"
+  python main.py --img "image.jpg"
   ```
 
 - **Save Output to JSON**
